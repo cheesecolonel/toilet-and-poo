@@ -14,9 +14,9 @@
 **_3.如何改編_**
 | 改編內容 | 改編方式 |
 |:-----:|:----------:|
-| _1.py_ | Create game surface , game loop and drawing|
-| _2.py_ | Blit text, font, sound and image objects.|
-| _3.py_ | Getting keyboard and collection dection
+| _音效_ | 下載新音效並取代舊音效|
+| _圖像_ | 下載新圖像並取代舊圖像|
+| _字幕_ | 設定新顏色並套用
 
 **_4.Code snippet_**
 ```python
