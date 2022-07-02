@@ -11,8 +11,8 @@
     3. 練習pygame匯入檔案的操作
 
 
-**_3.how to adapt_**
-| name | description |
+**_3.如何改編_**
+| 改編內容 | 改編方式 |
 |:-----:|:----------:|
 | _1.py_ | Create game surface , game loop and drawing|
 | _2.py_ | Blit text, font, sound and image objects.|
