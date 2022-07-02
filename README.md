@@ -28,4 +28,4 @@ coin_rect.y=random.randint(64,window_height-32)
 **_5.Game assets_**<br>
 [icon archive:](https://iconarchive.com/)網站提供遊戲圖像下載<br>
 
-<img src="https://github.com/cheesecolonel/toilet-and-poo/blob/main/tandp.png" width="400" height="300" alt="2.py程式截圖"><br>
+<img src="https://github.com/cheesecolonel/toilet-and-poo/blob/main/tandp.png" width="950" height="400" alt="2.py程式截圖"><br>
