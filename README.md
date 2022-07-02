@@ -10,12 +10,11 @@
     2. 將大部分圖案、字幕以及音效替換，符合個人風格
     3. 練習pygame匯入檔案的操作
 **_3.如何改編_**
-| 改編內容 | 改編方式 |
-|:-----:|:----------:|
-| _1.字幕_ | 定義新的顏色並套用至字幕上|
-| _2.音效_ | 下載新的音檔，替換舊的音效|
-| _3.圖像_ | 下載新的圖像，替換舊的音效 
 | name | description |
+|:-----:|:----------:|
+| _音效_ | Create game surface , game loop and drawing|
+| _2.py_ | Blit text, font, sound and image objects.|
+| _3.py_ | Getting keyboard and collection dection
 
 **_4.Code snippet_**
 ```python
