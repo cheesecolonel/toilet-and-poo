@@ -18,18 +18,12 @@
 
 **_4.Code snippet_**
 ```python
-
+#原本的coin.png改為poo.png
+coin_image=pygame.image.load("poo.png")
+coin_rect=player_image.get_rect()
+coin_rect.x=window_width+buffer_distance
+coin_rect.y=random.randint(64,window_height-32)
 ```
-```python
-#blit
-pygame.draw.line(displayscreen,WHITE,(0,75),(window_width,75),5)
-displayscreen.blit(bird_topleft,bird_topleft_rect)
-displayscreen.blit(bird_topright,bird_topright_rect)
-displayscreen.blit(show_text_1,show_text_1_rect)
-displayscreen.blit(show_text_2,show_text_2_rect)
-pygame.display.update()
-```
-
 **_5.Game assets_**<br>
 [icon archive:](https://iconarchive.com/)網站提供遊戲圖像下載<br>
 
