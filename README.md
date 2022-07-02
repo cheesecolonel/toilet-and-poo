@@ -9,7 +9,7 @@
     1. 以課程範例遊戲為基礎進行改編
     2. 將大部分圖案、字幕以及音效替換，符合個人風格
     3. 練習pygame匯入檔案的操作
-**_3.如何改編_**
+**_3.how to adapt_**
 | name | description |
 |:-----:|:----------:|
 | _1.py_ | Create game surface , game loop and drawing|
