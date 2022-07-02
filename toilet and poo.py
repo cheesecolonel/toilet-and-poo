@@ -111,7 +111,7 @@ while running:
                 if event.type==pygame.QUIT:
                     is_paused=False
                     running=False
-                if event.type==pygame.keys[pygame.K_KP_ENTER]:
+                if event.type==pygame.KEYDOWN:
                     score=0
                     lives=player_starting_lives
                     coin_velocity=coin_starting_velocity
