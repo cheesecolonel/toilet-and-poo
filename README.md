@@ -12,8 +12,8 @@
 **_3.如何改編_**
 | name | description |
 |:-----:|:----------:|
-| _sound_ | Create game surface , game loop and drawing|
-| _image_ | Blit text, font, sound and image objects.|
+| _1.sound_ | Create game surface , game loop and drawing|
+| _2.image_ | Blit text, font, sound and image objects.|
 | _3.py_ | Getting keyboard and collection dection
 
 **_4.Code snippet_**
